@@ -1,7 +1,9 @@
 ## Welcome to my profile 
 
 Name: William Stevenson
+
 Student I.D: S3756939
+
 Email: S3756939@student.rmit.edu.au
 
 
