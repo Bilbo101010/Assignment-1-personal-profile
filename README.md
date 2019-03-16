@@ -31,4 +31,4 @@ As i am studying Financial Planning my eventual ideal job will be to be a financ
 
 https://www.seek.com.au/financial-planner-jobs-in-banking-financial-services/in-All-Brisbane-QLD?salaryrange=100000-999999&salarytype=annual 
 
-<img src="dreamjob.png" >
+<img src="dream%20job.PNG" >
