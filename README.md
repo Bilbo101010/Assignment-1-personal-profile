@@ -29,3 +29,6 @@ During my studies I feel I will gain a wealth of knowledge in the world of finan
 
 As i am studying Financial Planning my eventual ideal job will be to be a financial plannner. The main role of a financial planner is to essentially liase with people to get an idea of their financial situation and work out a plan to implent the best ways to utilise their finances, whether it be to increase savings, reduce debt, increase income through investments, minimise tax or even get the most out of government social security benefits. 
 
+https://www.seek.com.au/financial-planner-jobs-in-banking-financial-services/in-All-Brisbane-QLD?salaryrange=100000-999999&salarytype=annual 
+
+<img src="dreamjob.png" >
