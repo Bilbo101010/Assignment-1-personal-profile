@@ -25,3 +25,7 @@ My reasons for enrolling in tertiary education at RMIT are varied. I have long b
 
 During my studies I feel I will gain a wealth of knowledge in the world of finance and broader subjects in accounting, information technology and laws surrounding the industry. I hope to gain the edge above my peers with my determination and the subject matter provided by RMIT I hope to gain a wealth of knowledge that will serve me in my future career as a financial planner so I can provide top-notch advice to my clients. During this subject of Introduction to IT I expect to gain a deeper knowledge of the inner workings of programs beyond the user interface which is about as in-depth as I have ever looked thus far. I understand that tertiary education is a journey and an experience, some subjects will appeal to me whilst others will not. I will approach is with an attitude of knowledge is power and take as much knowledge as I can from the experience.  
 
+### My dream job:
+
+As i am studying Financial Planning my eventual ideal job will be to be a financial plannner. The main role of a financial planner is to essentially liase with people to get an idea of their financial situation and work out a plan to implent the best ways to utilise their finances, whether it be to increase savings, reduce debt, increase income through investments, minimise tax or even get the most out of government social security benefits. 
+
