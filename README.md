@@ -15,3 +15,7 @@ My name is William, I was born in Sydney, Australia. I am a 29-year-old mechanic
 ### My interest in IT:
 
 My interest in IT has always been there. Mainly from a gaming point of view but as I have grown, I have always been utilising IT for so many facets of life. When I was a teenager I spent most of my free time on the internet, whether it be on msn, listening to music, doing assignments, gaming, it was a massive part of my life, it is how I kept close with a lot of my friends and family who lived too far away to see on a regular basis. As I have grown, I have also utilised IT in every job I’ve ever had. When I worked at Kmart, we utilised handheld scanners that held the full inventory of the store, when I worked in a local IGA supermarket the POS systems were all touch screen computers with a pos software. Currently as a mechanic I utilise a multitude of internet-based programs for research, parts catalogues, specification listings and even our invoicing software works on a cloud server. We utilise diagnostic tools to interface with vehicle data signals which we rely on constantly. In all these uses of IT above I have purely a user’s knowledge. There has always been an intrigue to understand the workings behind the User interface and that is where my interest in IT is always triggered.
+
+
+
+trap
