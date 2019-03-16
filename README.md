@@ -1,8 +1,11 @@
 ## Welcome to my profile 
 
-You can use the [editor on GitHub](https://github.com/Bilbo101010/Assignment-1-personal-profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Name: William Stevenson
+Student I.D: S3756939
+Email: S3756939@student.rmit.edu.au
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+My name is William, I was born in Sydney, Australia. I am a 29-year-old mechanic currently living on the Gold Coast, Queensland with my wife and 2 children. I graduated high school in 2006, I have since completed a Certificate 3 in light vehicle automatic technology, and Certificate 3 in heavy diesel technology. I have recently decided to change career path and am pursuing a career in the financial services industry. I have completed my diploma of financial planning and am currently undertaking accreditation courses for compliance in providing advice on tier 2 financial products which I hope will get me into the industry and help make my current study of ‘Bachelor of business – financial planning’ a little more relatable. My Hobby that I absolutely love is online car simulator racing. I play on a title called ‘iRacing’ where I get the chance to race online against other people worldwide at any time of day. I have the full setup including a direct drive servo motor that I have mounted a Sparco steering wheel to. The wheel has a fully functional LCD telemetry screen, carbon fibre paddle shifters and 17 functional buttons. I use an Oculus Rift virtual reality headset whilst racing and the immersion is just incredible.  
 
 ### Markdown
 
