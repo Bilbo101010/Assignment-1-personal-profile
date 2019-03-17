@@ -73,7 +73,7 @@ Email: S3756939@student.rmit.edu.au
 
 <h3> Motivation behind the project</h3>
 
-<p> Virtual reality headsets are becoming common place amongst pc users looking for that extra bit of immersion. In 2019 alone there have been 6million virtual reality headset sold worldwide. I, personally use an Oculus Rift whenever I race on my simulator, it is an amazing experience inside the headset, but it can be a very awkward experience when trying to interface with factors that are outside the virtual environment. I want to make the user experience better by making the transition from virtual world to real world a little simpler as my experience has shown, it is not just a case of once the headset is on, the real world can't interact with the user, it is just a surprise when it does. <p>
+<p> Virtual reality headsets are becoming common place amongst pc users looking for that extra bit of immersion. In 2019 alone there have been 6million virtual reality headset sold worldwide (Statista 2019). I, personally use an Oculus Rift whenever I race on my simulator, it is an amazing experience inside the headset, but it can be a very awkward experience when trying to interface with factors that are outside the virtual environment. I want to make the user experience better by making the transition from virtual world to real world a little simpler as my experience has shown, it is not just a case of once the headset is on, the real world can't interact with the user, it is just a surprise when it does. <p>
  
 <h3> Description </h3>
 
@@ -105,3 +105,17 @@ The main task of the project is to create a modified headset for the Rift. The h
 <h3> Outcome: </h3>
 
 <p> The outcome of the project will be to give the user a much more seamless transition between being in the headset and being able to view the real-world environment by utilising the flip up screen mount and not having to remove the complete headset or lifting it up. By utilising the LED strip inside and the programed warnings the user will be able to avoid awkward shocks when someone or something enters the room without their knowledge. Overall this project wil remove some of the most exasperating and displeasing issues that arise from the utilisation of a virtual reality headset such as the Oculus Rift and increase the pleasure of using such a fantastic piece of technology. </p>
+
+
+<h2> References </h2>
+
+<p> "16 personalities test" https://www.16personalities.com/ viewed 17/03/2019 </p>
+
+
+<p> "Learning styles quiz" http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=5&T=9 viewed 17/03/2019 </p>
+
+
+<p> "Creativity test" http://www.testmycreativity.com/ viewed 17/03/2019 </p>
+
+
+<p> Statista, 2019 "VR device shipment statistics by vendor" https://www.statista.com/statistics/671403/global-virtual-reality-device-shipments-by-vendor/ 
