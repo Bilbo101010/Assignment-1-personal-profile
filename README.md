@@ -86,9 +86,9 @@ The main task of the project is to create a modified headset for the Rift. The h
 <h3> Tools and technologies: <h3>
 
 <p> The hardware needed to carry out this project would include: </p>
+
 <ul>
-<li> 1x raspberry pi </li>
-<li> Multi-coloured LEDs or RGB lighting strip </li>
+<li> 1x raspberry pi </li> <li> Multi-coloured LEDs or RGB lighting strip </li>
 <li> cable to link Raspberry pi to Lighting strip/LEDs </li>
 <li> Wireless motion sensor, Microswitch, or door beam sensor. </li>
 <li> Casing for Raspberry pi (possible custom enclosure) </li>
