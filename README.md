@@ -39,4 +39,25 @@ Email: S3756939@student.rmit.edu.au
 
 <p> My plan to get into contention for a position such as this would be to firstly gain administration experience within a financial planning firm. I have recently completed my Diploma of Financial planning and am on my way to becoming accredited in RG146 which is a requirement set out by ASIC to provide advice on tier1 financial products. By gaining these qualifications i have given myself the best possible chance to gain employment withing the financial planning industry without having any experience. Once in administration i can gain knowledge, customer service skills and prove my competence in handling and comprehending financial documentation, from here i will attempt to get promoted into a para-planner position which is a role which is basically a complete technical support to the financial planner. While the planner conducts the interview they make file notes and once the interview is over they bring their notes and a series of other investigative documents filled out by the clients to the para-lanning team. It is the para-planner who carry's out the annalysis of the clients situation, investigates suitable recommendations and researches suitable products to recommend to the client. The role is a massively technical and intriguing, this is where planners develop their skills and the ability to provide good advice to their clients. I would spend quite a few years in a paraplanning role where i cement my knowledge and make sure i can provide outstanding support to my adviser. From  here i would make the step up to an adviser role, I would use my previous skills in customer service, technical expertise and industry experience to cement my place in the industry as a reputable financial planner. </p>
 
+### Results for online personality tests:
+
+<img src="16%20personalities%20test.PNG">
+
+<img src="learning%20styles%20tets.PNG" height="600">
+
+<img src="creativity%20test.PNG" height="600">
+
+<h3> What do these test results mean for me?</h3>
+
+<p> These test results only prove what i already know about myself. Over the last few years i have spent quite a bit of time on getting to know what makes me... me. As a mechanic currently, i know that i am preferencial to tactile learning, i have struggled quite a bit with study throughout my diploma not attracting my attention as it was purely pdf files of information to read and hopefully retain the information which for a person like myself just doesn't interest me, meanwhile undertaking university with lectures and group conversations, i am much more stimulated. The creativity test score is also fairly correct. I am a person who likes to find solutions to problems within the bounds of my skills. I don't tend to make up silly things, I utilise my knowledge to achieve practical compromises. The result of the 16 personalities teset would also confirm that I am on the right path going into finance, i like being assertive and using my knowledge whilst also pushing myself and really enjoy interacting with people and having meaningful conversations. </p>
+
+<h3>How the results will influence my ability to work in a team </h3>
+
+<p> These results show that in a group environment I am likely to initate a direction, I am likely to state my opinions and have a fair amount of say in the final product. I am likely not to do the tedious research but will play a hand in the building of the concept and the final product. I may have to colaborate with the team to grasp the theory behind the task as i will learn more through explanation than i probably would reading instructions but i will be able to work well with my peers and provide energy to the team environment.</p>
+
+<h3> How should i take this into account when forming a team? </h3>
+
+<p> I would need to make sure that i'm in a group with outgoing people, I thrive on interaction and having a few silent partners would lead to them feeling overrun by myself and may lead to discontent within the group as their opinions will likely not be heard. </p>
+
+<h1> My project idea </h1>
 
