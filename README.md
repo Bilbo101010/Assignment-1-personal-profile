@@ -43,9 +43,15 @@ Email: S3756939@student.rmit.edu.au
 
 <img src="16%20personalities%20test.PNG">
 
-<img src="learning%20styles%20tets.PNG" height="600">
+<u>https://www.16personalities.com/profiles/e76b8ac8347a9</u>
 
-<img src="creativity%20test.PNG" height="600">
+<img src="learning%20styles%20tets.PNG">
+
+<u>http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=6&V=5&T=9</u>
+
+<img src="creativity%20test.PNG">
+
+<u>http://www.testmycreativity.com/</u>
 
 <h3> What do these test results mean for me?</h3>
 
@@ -61,3 +67,40 @@ Email: S3756939@student.rmit.edu.au
 
 <h1> My project idea </h1>
 
+<h3> Overview:</h3>
+
+<p> The idea is to create a modified design for the oculus rift headset which would add the ability to flip up the screen of the headset via a hinged mount on the goggles. A few programable led lights will be fitted inside the headset that will interface with a program that is run on the pc that the rift will be connected to. The program will use external sensors and cameras to track the user’s position within the room whilst also monitoring things such as the door to the room so that it can show that someone has entered which will set off the LED lights within the headset so that the user understands there is something that requires their attention in the real world environment. </p>
+
+<h3> Motivation behind the project</h3>
+
+<p> Virtual reality headsets are becoming common place amongst pc users looking for that extra bit of immersion. In 2019 alone there have been 6million virtual reality headset sold worldwide. I, personally use an Oculus Rift whenever I race on my simulator, it is an amazing experience inside the headset, but it can be a very awkward experience when trying to interface with factors that are outside the virtual environment. I want to make the user experience better by making the transition from virtual world to real world a little simpler as my experience has shown, it is not just a case of once the headset is on, the real world can't interact with the user, it is just a surprise when it does. <p>
+ 
+<h3> Description </h3>
+
+The main task of the project is to create a modified headset for the Rift. The headset modification will encompass a hinged screen section so that the user can flip up the screen in the headset so that they can transition to viewing the real-world environment without needing to remove the headset. This is a major concern whilst interfacing with any game that has more functionality than what the touch controllers provide the user e.g. log in screens and in game messaging functionality. With the modification to the headset we will also include an LED light or RGB strip into the headset above the screen, this screen will act as a warning system to the user for specific issues that a user is faced with form the real-world environments. Things like a family member entering the room without your knowledge, a pet making its way into the ‘play zone’, something in the room that is potentially hazardous that you would not have picked up before entering the headset. Firstly, there is need for some form of microswitch or sensor that would notify if someone or something entered the room. This would transmit to a Raspberry pi which would illuminate a flashing LED that would warn the user that someone was coming into their play area. The user could then displace an earpiece and converse with the person without fully leaving the virtual world and without getting the ‘fright of their life’. Another function that would ideally be implemented is the use of the oculus sensors to interface with the raspberry pie so that when the user is moving too close to the edge of the play area not only would the virtual safe zone be displayed but a flashing warning would be displayed that would emphasise the danger. </p>
+
+<p> The LED’s function within the headset would support third party software developers, especially those within the sim racing genre. I feel that if the simulator software could interact with the raspberry pie, things such as yellow warning flags, green flags and blue/yellow flags could be displayed via the LED lighting or the RGB lighting strip which would add to the experience and immersion for the client as the graphical detail can be lacking and small details such as flags waving can often be missed. </p>
+
+<p>The interface to the software should include a full RGB lighting chart and have programmable customisable settings for different commands such as strobing, flashing, constant glow, how bright the lighting should be and possibly even have an audible warning that is pushed through the computer’s onboard sound that would be triggered when someone enters a room. It could also be handy for voice activation of certain function and the setting of a ‘Turn off LED system’ command which would stop the LED system working if it was no longer wanted/needed at that time. </p>  
+
+<h3> Tools and technologies: <h3>
+
+<p> The hardware needed to carry out this project would include: </p>
+<ul>
+<li> 1x raspberry pi </li>
+<li> Multi-coloured LEDs or RGB lighting strip </li>
+<li> cable to link Raspberry pi to Lighting strip/LEDs </li>
+<li> Wireless motion sensor, Microswitch, or door beam sensor. </li>
+<li> Casing for Raspberry pi (possible custom enclosure) </li>
+<li> 3d printed replacement rift enclosure which would utilise the original straps </li>
+</ul>
+ 
+<p> The software required to function the LED interface and the sensors would be open source from the internet. LED lighting and sensors are often used withing the robotics applications of the Raspberry pi, so there should be a solution easily available that could be modified for interfacing with third party applications.</p>
+
+<h3> Skills required:</h3>
+
+<p> This project would require a team with good programming skills utilising 'Python' code language and skill with windows coding  to help interface third party softwares. There would also be an element of design and fabrication to modify the original headset design or to create a completely new housing. The project wouldn't require extensive design or coding but could face issues in implementing interfaces with the oculus sensors and third party softwares. I would imagine most software writers would be able to set up the basic warning lights and RGB coding and with further knowledge should be able to interpret the backend of gaming titles to provide flagging data etc. </p>
+
+<h3> Outcome: </h3>
+
+<p> The outcome of the project will be to give the user a much more seamless transition between being in the headset and being able to view the real-world environment by utilising the flip up screen mount and not having to remove the complete headset or lifting it up. By utilising the LED strip inside and the programed warnings the user will be able to avoid awkward shocks when someone or something enters the room without their knowledge. Overall this project wil remove some of the most exasperating and displeasing issues that arise from the utilisation of a virtual reality headset such as the Oculus Rift and increase the pleasure of using such a fantastic piece of technology. </p>
