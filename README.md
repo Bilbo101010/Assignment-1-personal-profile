@@ -84,7 +84,6 @@ The main task of the project is to create a modified headset for the Rift. The h
 <p>The interface to the software should include a full RGB lighting chart and have programmable customisable settings for different commands such as strobing, flashing, constant glow, how bright the lighting should be and possibly even have an audible warning that is pushed through the computer’s onboard sound that would be triggered when someone enters a room. It could also be handy for voice activation of certain function and the setting of a ‘Turn off LED system’ command which would stop the LED system working if it was no longer wanted/needed at that time. </p>  
 
 <h3> Tools and technologies: <h3>
-
 <p> The hardware needed to carry out this project would include:
 <ul>
 <li> 1x raspberry pi </li>
